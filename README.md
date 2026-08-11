@@ -1,5 +1,3 @@
-
-
 ### Hi, I'm Chrystian 👋
 
 Software developer in training (C / C++ / Python) at **42 Madrid**, coming from a professional background in 3D game art. I build the things I'm learning about — not just exercises.
@@ -10,24 +8,31 @@ Currently exploring roles in systems programming, backend and tooling. Still com
 
 ### 🚀 Featured Projects
 
-**[RAG_against_the_machine — RAG System](LINK(https://github.com/cdonairevillen/RAG_Against_the-machine_42_project))** · Python
+**[RAG_against_the_machine — RAG System](https://github.com/cdonairevillen/RAG_Against_the-machine_42_project)** · Python
 Retrieval-Augmented Generation system built on vLLM. BM25 retrieval with a classifier-guided routing layer and optional cross-encoder reranking. Benchmarked: 0.88 recall@5 (docs), 0.67 recall@5 (code).
 
-**[Agent Smith — Agent Drived Environment](LINK(https://github.com/cdonairevillen/Agent_Smith_42))** · Python
+**[Agent Smith — Agent Driven Environment](https://github.com/cdonairevillen/Agent_Smith_42)** · Python
 Agentic framework (Thought → Code → Observation loop) that solves MBPP and SWE-bench coding benchmarks. Built a custom sandbox for safe code execution — process isolation, memory/timeout limits, blocked introspection — plus multi-provider LLM support.
 
-**[The Answer Protocol — Server-client multiplayer game](LINK(https://github.com/Juanpi194/The-Answer-Protocol))** · C++
-Multi-threaded multiplayer MUD: one thread per connected player, TCP server, plus a CLI/GUI client. Team project.
+**[The Answer Protocol — Server-client multiplayer game](https://github.com/Juanpi194/The-Answer-Protocol)** · C++
+Multi-threaded multiplayer MUD: one thread per connected player, TCP server, plus a CLI/GUI client. Team project — repo hosted under a teammate's account, my contributions are visible in the commit history.
 
 ---
 
 ### 🧩 Also worth a look — fundamentals
 
-**[CODEXION]([LINK](https://github.com/cdonairevillen/Codexion_Chrystian_Donaire_42_Madrid))** · C
-The classic dining philosophers problem: threads, mutexes, and race condition handling done right, with no memory leaks or deadlocks.
+**[Codexion](https://github.com/cdonairevillen/Codexion_Chrystian_Donaire_42_Madrid)** · C
+A concurrency simulator inspired by the Dining Philosophers problem: threads competing for shared resources under strict timing constraints, with deadlock prevention, starvation prevention, and both FIFO and EDF (Earliest Deadline First) scheduling.
 
-**[Push_Swap]([LINK](https://github.com/cdonairevillen/Push-Swap---Turkish---Old-42-Curriculum))** · C
-Sorting algorithm that orders a stack of integers using only a restricted set of stack operations, optimized for minimal instruction count. Pure C, no external libraries.
+**[push_swap](https://github.com/cdonairevillen/Push-Swap---Turkish---Old-42-Curriculum)** · C
+Sorting algorithm that orders a stack of integers using a restricted set of stack operations, combining a divide-and-conquer approach with a Longest Increasing Subsequence (LIS) heuristic to minimize instruction count.
+
+---
+
+### 🎮 Also built — just for fun
+
+**[Pac-Man](https://github.com/cdonairevillen/PacMan_42_New_CommonCore)** · Python
+A full Pac-Man recreation with procedural maze generation, ghost AI, score persistence and a cheat mode for QA — [playable on itch.io](https://cdonairevillen.itch.io/pac-man).
 
 ---
 
@@ -45,4 +50,4 @@ Sorting algorithm that orders a stack of integers using only a restricted set of
 
 ### 📫 Find me
 
-[LinkedIn]([LINK](https://www.linkedin.com/in/cdonaire/)) · [GMAIL]([LINK](cdonairevillen@gmail.com))
+[LinkedIn](https://www.linkedin.com/in/cdonaire/) · [Email](mailto:cdonairevillen@gmail.com)

@@ -10,23 +10,23 @@ Currently exploring roles in systems programming, backend and tooling. Still com
 
 ### 🚀 Featured Projects
 
-**[RAG_against_the_machine — RAG System](LINK)** · Python
+**[RAG_against_the_machine — RAG System]([LINK](https://github.com/cdonairevillen/RAG_Against_the-machine_42_project))** · Python
 Retrieval-Augmented Generation system built on vLLM. BM25 retrieval with a classifier-guided routing layer and optional cross-encoder reranking. Benchmarked: 0.88 recall@5 (docs), 0.67 recall@5 (code).
 
-**[Agent Smith — Agent Drived Environment](LINK)** · Python
+**[Agent Smith — Agent Drived Environment]([LINK](https://github.com/cdonairevillen/Agent_Smith_42))** · Python
 Agentic framework (Thought → Code → Observation loop) that solves MBPP and SWE-bench coding benchmarks. Built a custom sandbox for safe code execution — process isolation, memory/timeout limits, blocked introspection — plus multi-provider LLM support.
 
-**[The Answer Protocol — Server-client multiplayer game](LINK)** · C++
+**[The Answer Protocol — Server-client multiplayer game]([LINK](https://github.com/Juanpi194/The-Answer-Protocol))** · C++
 Multi-threaded multiplayer MUD: one thread per connected player, TCP server, plus a CLI/GUI client. Team project.
 
 ---
 
 ### 🧩 Also worth a look — fundamentals
 
-**[Philosophers](LINK)** · C
+**[CODEXION]([LINK](https://github.com/cdonairevillen/Codexion_Chrystian_Donaire_42_Madrid))** · C
 The classic dining philosophers problem: threads, mutexes, and race condition handling done right, with no memory leaks or deadlocks.
 
-**[push_swap](LINK)** · C
+**[Push_Swap]([LINK](https://github.com/cdonairevillen/Push-Swap---Turkish---Old-42-Curriculum))** · C
 Sorting algorithm that orders a stack of integers using only a restricted set of stack operations, optimized for minimal instruction count. Pure C, no external libraries.
 
 ---
@@ -45,4 +45,4 @@ Sorting algorithm that orders a stack of integers using only a restricted set of
 
 ### 📫 Find me
 
-[LinkedIn](LINK) · [Portfolio](LINK)
+[LinkedIn]([LINK](https://www.linkedin.com/in/cdonaire/)) · [GMAIL]([LINK](cdonairevillen@gmail.com))

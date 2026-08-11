@@ -10,13 +10,13 @@ Currently exploring roles in systems programming, backend and tooling. Still com
 
 ### 🚀 Featured Projects
 
-**[RAG_against_the_machine — RAG System]([LINK](https://github.com/cdonairevillen/RAG_Against_the-machine_42_project))** · Python
+**[RAG_against_the_machine — RAG System](LINK(https://github.com/cdonairevillen/RAG_Against_the-machine_42_project))** · Python
 Retrieval-Augmented Generation system built on vLLM. BM25 retrieval with a classifier-guided routing layer and optional cross-encoder reranking. Benchmarked: 0.88 recall@5 (docs), 0.67 recall@5 (code).
 
-**[Agent Smith — Agent Drived Environment]([LINK](https://github.com/cdonairevillen/Agent_Smith_42))** · Python
+**[Agent Smith — Agent Drived Environment](LINK(https://github.com/cdonairevillen/Agent_Smith_42))** · Python
 Agentic framework (Thought → Code → Observation loop) that solves MBPP and SWE-bench coding benchmarks. Built a custom sandbox for safe code execution — process isolation, memory/timeout limits, blocked introspection — plus multi-provider LLM support.
 
-**[The Answer Protocol — Server-client multiplayer game]([LINK](https://github.com/Juanpi194/The-Answer-Protocol))** · C++
+**[The Answer Protocol — Server-client multiplayer game](LINK(https://github.com/Juanpi194/The-Answer-Protocol))** · C++
 Multi-threaded multiplayer MUD: one thread per connected player, TCP server, plus a CLI/GUI client. Team project.
 
 ---

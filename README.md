@@ -11,7 +11,7 @@ Currently exploring roles in systems programming, backend and tooling. Still com
 **[RAG_against_the_machine — RAG System](https://github.com/cdonairevillen/RAG_Against_the-machine_42_project)** · Python
 Retrieval-Augmented Generation system built on vLLM. BM25 retrieval with a classifier-guided routing layer and optional cross-encoder reranking. Benchmarked: 0.88 recall@5 (docs), 0.67 recall@5 (code).
 
-**[Agent Smith — Agent Driven Environment](https://github.com/cdonairevillen/Agent_Smith_42)** · Python
+**[Agent Smith — Agent Driven Environment]([https://github.com/cdonairevillen/Agent_Smith_42](https://github.com/DeewaGG/AgentSmith))** · Python
 Agentic framework (Thought → Code → Observation loop) that solves MBPP and SWE-bench coding benchmarks. Built a custom sandbox for safe code execution — process isolation, memory/timeout limits, blocked introspection — plus multi-provider LLM support.
 
 **[The Answer Protocol — Server-client multiplayer game](https://github.com/Juanpi194/The-Answer-Protocol)** · C++
